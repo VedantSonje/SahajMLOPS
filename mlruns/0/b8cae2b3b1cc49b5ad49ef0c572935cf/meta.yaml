@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Sahaj%20ML/SahajMLOPS/mlruns/0/b8cae2b3b1cc49b5ad49ef0c572935cf/artifacts
+end_time: 1695446788325
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b8cae2b3b1cc49b5ad49ef0c572935cf
+run_name: gregarious-roo-711
+run_uuid: b8cae2b3b1cc49b5ad49ef0c572935cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695446769712
+status: 3
+tags: []
+user_id: vedan
